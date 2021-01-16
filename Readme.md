@@ -16,8 +16,8 @@ This library provides opinionated helper types for entity construction in any OR
 
 ## Installation
 
-- `npm i --save-dev entity-parameter`
-- `yarn add -D entity-parameter`
+- `npm i entity-parameter`
+- `yarn add entity-parameter`
 
 **Note**: `strictNullChecks` must be enabled for this library to work properly.
 
