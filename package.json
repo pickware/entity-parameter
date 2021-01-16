@@ -1,0 +1,11 @@
+{
+    "name": "entity-parameter",
+    "description": "EntityParameter type for usage as Entity constructor parameter type.",
+    "repository": {
+      "url": "https://github.com/Agreon/entity-parameter"
+    },
+    "version": "0.0.1",
+    "main": "src/index.ts",
+    "author": "Daniel Huth",
+    "license": "MIT"
+}
