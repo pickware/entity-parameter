@@ -2,10 +2,14 @@
     "name": "entity-parameter",
     "description": "EntityParameter type for usage as Entity constructor parameter type.",
     "repository": {
-      "url": "https://github.com/Agreon/entity-parameter"
+      "url": "https://github.com/pickware/entity-parameter"
     },
-    "version": "0.0.2",
-    "main": "src/index.ts",
+    "scripts": {
+      "prepare": "tsc --declaration"
+    },
+    "version": "0.0.3",
+    "main": "dist/index.js",
+    "types": "src/index.d.ts",
     "author": "Daniel Huth",
     "license": "MIT"
 }
