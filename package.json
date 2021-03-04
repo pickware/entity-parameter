@@ -7,9 +7,9 @@
     "scripts": {
       "prepare": "tsc --declaration"
     },
-    "version": "0.0.3",
+    "version": "0.0.4",
     "main": "dist/index.js",
-    "types": "src/index.d.ts",
+    "types": "dist/index.d.ts",
     "author": "Daniel Huth",
     "license": "MIT"
 }
